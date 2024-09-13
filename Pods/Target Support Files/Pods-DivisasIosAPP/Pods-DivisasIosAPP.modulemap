@@ -1,0 +1,6 @@
+framework module Pods_DivisasIosAPP {
+  umbrella header "Pods-DivisasIosAPP-umbrella.h"
+
+  export *
+  module * { export * }
+}
